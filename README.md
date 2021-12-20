@@ -32,7 +32,7 @@ Full social media dataset consists of:
 > just download .ipynb files and open via colab, use ready-made dataset from .data or your own with similar structure. upload file with texts into colab and use noteboks! 
 
 
-
+ 
 ## TEXT PREPOCESSING
 
 for texts preprocessing please use text_preprocessing .ipynb file and:
