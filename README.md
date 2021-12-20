@@ -28,7 +28,7 @@ Full social media dataset consists of:
 | The average number of texts per author | 115.37 |
 ## EXPERIMENTS
 
-> note that all experiments were provided on Google colab using GPU !
+> note that all experiments were provided on Google colab using GPU ! 
 > just download .ipynb files and open via colab, use ready-made dataset from .data or your own with similar structure. upload file with texts into colab and use noteboks! 
 
 
