@@ -8,6 +8,9 @@ Comparison of deep neural network architectures and classical machine learning m
 - texts preprocessing stage
 - classical ML methods (KNN, SVM, LR, DT, RF, NB)
 - deep models (LSTM, CNN, their hybrids, BERT)
+- fastText
+
+
 ## DATASETS
 
 - demo version of the social media dataset available at data folder 
