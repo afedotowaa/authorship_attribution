@@ -93,7 +93,7 @@ Make a change in classifier parameters and get your best result!
 
 provide experiments with fastText using fastText.ipynb and dataset. Select n-grams and other parameters or default version
 
-## FEATURE SEELCTION
+## FEATURE SELECTION
 
 GA.ipynb notebook will help you to get the best performance of ML methods. 
 This notebook based on SVM, but you can use another classifier just replace clf to your method.
